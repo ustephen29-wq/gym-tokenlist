@@ -1,0 +1,21 @@
+{
+  "name": "GymCoin Token List",
+  "logoURI": "https://raw.githubusercontent.com/ustpehgen23-wq/gym-tokenlist/main/logo.png",
+  "keywords": ["gym", "token", "crypto"],
+  "timestamp": "2024-01-01T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xa457239b170A14e7677C92FcACe9Afca3EeC4cB9",
+      "symbol": "GYM",
+      "name": "GymCoin",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/ustpehgen23-wq/gym-tokenlist/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
